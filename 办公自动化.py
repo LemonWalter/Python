@@ -10,3 +10,5 @@ print(os.listdir())
 
 for item in os.listdir():
     print(item, os.path.isdir(item))
+
+print()
